@@ -1,0 +1,9 @@
+comments - 
+    single line - // this is a single line comment
+    multiple lines - /* this is a 
+                        multiple lines comment*/
+
+variables - 
+    var - can be changed or modified
+    val - cannot be changed or modified    
+

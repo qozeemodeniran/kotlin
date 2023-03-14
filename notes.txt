@@ -7,3 +7,4 @@ variables -
     var - can be changed or modified
     val - cannot be changed or modified    
 
+Operators - used to perform operations on variables and values(operands). (-,+,* etc)
